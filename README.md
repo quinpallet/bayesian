@@ -1,4 +1,4 @@
-# bayesian
+# bayesian-filter
 
 Bayesian Filter: A filter that can be applied to automatic text classification using an algorithm called Naive Bayes.
 
